@@ -202,6 +202,9 @@ print(item.name + " " + item.quantity + " " + item.purchased)
 ```
 由于 `ShoppingListItem` 类的**所有属性都有默认值**，又由于它是一个没有父类的基类， `ShoppingListItem` 类自动地获得了一个默认的初始化器，使用默认值设置了它的所有属性然后创建了新的实例。( `name` 属性是一个可选 `String` 属性，所以它会自动设置为 `nil` 默认值，尽管这个值没有写在代码里。)上面的栗子给 `ShoppingListItem` 类使用默认初始化器以及初始化器语法创建新的实例，写作 `ShoppingListItem()` ，并且给这个新实例赋了一个名为 `item` 的变量。
 
+
+ahahahah
+
 > 摘自：[swift 官网](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0)
 > 所有代码在Xcode9 Swift4 环境编译没问题，代码[戳这里 https://github.com/keshiim/LearnSwift4](https://github.com/keshiim/LearnSwift4)
 
