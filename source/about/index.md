@@ -12,7 +12,7 @@ Email：
 <keshiim@163.com>
 <keshiim86@gmail.com>
 职业：iOS平台开发
-喜好：动漫、健身、编程
+喜好：动漫、健身、编程、算法、易经、数学、游戏
 描述：热爱生活
 现居：魔都
 毕业院校：黑龙江工程大学
@@ -27,4 +27,6 @@ Email：
 
 ### 开源项目
 - [ZMJImageEditor](https://github.com/keshiim/ZMJImageEditor)
+- [ZMJGanttChart](https://github.com/keshiim/ZMJGanttChart)
+- [ZMJTipView](https://github.com/keshiim/ZMJTipView)
 
